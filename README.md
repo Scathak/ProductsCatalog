@@ -1,0 +1,1 @@
+This is small WPF application which store products catalog in SQLite database. Catalog incorporate Categories and Products as well as their descriptions. Main functions are CRUD on database with Entity Framework data binding. Moreover, such functions as edit, open from a local file, and print in pdf products descriptions in advanced xaml Text format including pictures. 
